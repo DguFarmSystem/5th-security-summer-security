@@ -5,7 +5,6 @@ import path from 'node:path';
 const projectFolder = path.join(import.meta.dirname, '..');
 const port = 3000;
 
-// TODO: 라우트 테이블 채우기
 const routes = {
     '/': ['frontend', 'html', 'homepage.html'],
     '/css/homepage.css': ['frontend', 'css', 'homepage.css'],
@@ -21,7 +20,6 @@ const routes = {
 
     // 정윤우 라우트 테이블
      '/Jung-YunWoo': ['frontend', 'html', 'CV', 'Jung-YunWoo.html'],
-    // '/css/###.css': ['frontend', 'css', '###.css'],
 
     // 최현민 라우트 테이블
     '/choi-hyunmin': ['frontend', 'html', 'CV', 'choi-hyunmin.html'],
