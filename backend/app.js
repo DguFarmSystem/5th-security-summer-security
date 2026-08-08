@@ -11,8 +11,8 @@ const routes = {
     '/css/homepage.css': ['frontend', 'css', 'homepage.css'],
 
     // 권민재 라우트 테이블
-    // '/###': ['frontend', 'html', 'CV', '###.html'],
-    // '/css/###.css': ['frontend', 'css', '###.css'],
+    '/mj': ['frontend', 'html', 'CV', 'mj.html'],
+    '/css/mj.css': ['frontend', 'css', 'mj.css'],
 
     // 서정훈 라우트 테이블
     '/Seo-JeongHun': ['frontend', 'html', 'CV', 'Seo-JeongHun.html'],
