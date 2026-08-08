@@ -23,8 +23,8 @@ const routes = {
     // '/css/###.css': ['frontend', 'css', '###.css'],
 
     // 최현민 라우트 테이블
-    // '/###': ['frontend', 'html', 'CV', '###.html'],
-    // '/css/###.css': ['frontend', 'css', '###.css'],
+    '/choi-hyunmin': ['frontend', 'html', 'CV', 'choi-hyunmin.html'],
+    '/css/choi-hyunmin.css': ['frontend', 'css', 'choi-hyunmin.css']
 };
 
 const contentTypes = {
