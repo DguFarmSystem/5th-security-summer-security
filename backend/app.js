@@ -11,15 +11,15 @@ const routes = {
     '/css/homepage.css': ['frontend', 'css', 'homepage.css'],
 
     // 권민재 라우트 테이블
-    // '/###': ['frontend', 'html', 'CV', '###.html'],
-    // '/css/###.css': ['frontend', 'css', '###.css'],
+    '/mj': ['frontend', 'html', 'CV', 'mj.html'],
+    '/css/mj.css': ['frontend', 'css', 'mj.css'],
 
     // 서정훈 라우트 테이블
     '/Seo-JeongHun': ['frontend', 'html', 'CV', 'Seo-JeongHun.html'],
     '/css/Seo-JeongHun.css': ['frontend', 'css', 'Seo-JeongHun.css'],
 
     // 정윤우 라우트 테이블
-    // '/###': ['frontend', 'html', 'CV', '###.html'],
+     '/Jung-YunWoo': ['frontend', 'html', 'CV', 'Jung-YunWoo.html'],
     // '/css/###.css': ['frontend', 'css', '###.css'],
 
     // 최현민 라우트 테이블
