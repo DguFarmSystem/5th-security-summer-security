@@ -17,6 +17,7 @@ const routes = {
     // 서정훈 라우트 테이블
     '/Seo-JeongHun': ['frontend', 'html', 'CV', 'Seo-JeongHun.html'],
     '/css/Seo-JeongHun.css': ['frontend', 'css', 'Seo-JeongHun.css'],
+    '/js/Seo-JeongHun.js': ['frontend', 'js', 'Seo-JeongHun.js'],
 
     // 정윤우 라우트 테이블
     // '/###': ['frontend', 'html', 'CV', '###.html'],
@@ -30,6 +31,7 @@ const routes = {
 const contentTypes = {
     '.html': 'text/html; charset=UTF-8',
     '.css': 'text/css; charset=UTF-8',
+    '.js': 'text/javascript; charset=UTF-8'
 };
 
 const server = http.createServer((req, res) => {
