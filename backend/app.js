@@ -19,7 +19,7 @@ const routes = {
     '/css/Seo-JeongHun.css': ['frontend', 'css', 'Seo-JeongHun.css'],
 
     // 정윤우 라우트 테이블
-    // '/###': ['frontend', 'html', 'CV', '###.html'],
+     '/Jung-YunWoo': ['frontend', 'html', 'CV', 'Jung-YunWoo.html'],
     // '/css/###.css': ['frontend', 'css', '###.css'],
 
     // 최현민 라우트 테이블
